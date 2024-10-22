@@ -1,0 +1,35 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.product-card {
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 8px 0;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #222;
+}
+
+.product-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.product-price {
+  color: #40c4ff;
+}
+
+input {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #555;
+  border-radius: 4px;
+  padding: 8px;
+}
